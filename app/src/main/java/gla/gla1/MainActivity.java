@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "rahul,mca student",
+                Snackbar.make(view, "rahulg,mca2nd student",
                         Snackbar.LENGTH_LONG)
-                        .setAction("done", null).show();
+                        .setAction("doneby", null).show();
             }
         });
     }
